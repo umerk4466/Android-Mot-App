@@ -1,5 +1,5 @@
-# What is Mot_App
-Mot_App is Android application in which user will login or register and then can add his vehicle data such as MOT expiration Date, Registration Number, Vehicle Notes, Insurance Number/Date etc. then this application will remind you when MOT, Insurance due.
+# What is Android-Mot-App
+Android-Mot-App(Mot_App) is Android application in which user will login or register and then can add his vehicle data such as MOT expiration Date, Registration Number, Vehicle Notes, Insurance Number/Date etc. then this application will remind you when MOT, Insurance due.
 ### Mot_App Demo In Android 
 
 ## How to download this Application for Android
